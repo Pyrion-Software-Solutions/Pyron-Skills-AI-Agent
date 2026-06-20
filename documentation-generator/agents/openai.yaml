@@ -1,4 +1,4 @@
 interface:
-  display_name: "Markdown Code Documentation Generator"
-  short_description: "Generate Markdown docs from code"
-  default_prompt: "Use $documentation-generator to generate Markdown documentation for this code or project."
+  display_name: "Pyron Markdown Code Documentation Generator"
+  short_description: "Pyron Generate Markdown docs from code"
+  default_prompt: "Use $pyron-documentation-generator to generate Markdown documentation for this code or project."
