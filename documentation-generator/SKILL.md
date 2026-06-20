@@ -3,7 +3,7 @@ name: documentation-generator
 description: Generate clear, structured Markdown documentation for source code, libraries, CLI tools, APIs, scripts, and applications. Use when Codex needs README files, usage guides, API or function references, developer documentation, code comments, documentation rewrites, project structure docs, troubleshooting notes, environment variable tables, or changelog-ready summaries grounded in provided code or repository contents.
 ---
 
-# Markdown Code Documentation Generator
+# Pyron Documentation Generator
 
 ## Purpose
 
