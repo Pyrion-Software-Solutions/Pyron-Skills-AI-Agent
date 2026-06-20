@@ -1,0 +1,33 @@
+{
+  "name": "pyron-skills-ai-agent",
+  "version": "0.1.0",
+  "description": "Codex skills for Pyron, including a Markdown documentation generator.",
+  "bin": {
+    "pyron-skills": "bin/pyron-skills.js"
+  },
+  "files": [
+    "bin/",
+    "documentation-generator/"
+  ],
+  "scripts": {
+    "check": "node --check bin/pyron-skills.js"
+  },
+  "keywords": [
+    "codex",
+    "skills",
+    "ai-agent",
+    "documentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyrion-Software-Solutions/Pyron-Skills-AI-Agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pyrion-Software-Solutions/Pyron-Skills-AI-Agent/issues"
+  },
+  "homepage": "https://github.com/Pyrion-Software-Solutions/Pyron-Skills-AI-Agent#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
